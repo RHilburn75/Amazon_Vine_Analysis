@@ -23,6 +23,7 @@ Once I set up the RDS and S3 accounts on the Amazon platform, I used Pyspark to 
 ![image](https://user-images.githubusercontent.com/94253815/159140663-758dc643-5bd6-4721-97de-00b3398e1f9a.png)
 
 
+![image](https://user-images.githubusercontent.com/94253815/159140770-828190e0-b6e5-4bc4-89e8-0061cb1efdf0.png)
 
 
 
