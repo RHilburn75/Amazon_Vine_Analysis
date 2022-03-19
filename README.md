@@ -49,9 +49,10 @@ Once I set up the RDS and S3 accounts on the Amazon platform, I used Pyspark to 
   ## Further Analysis - Mean
   
   
+ ![image](https://user-images.githubusercontent.com/94253815/159142155-d2656241-ab07-483b-8313-4a3125097736.png)
+ 
   
-  
-
+Looking at the is data, there is still enough information to go forward with the program.  Further analysis on word used in the reviews or particular apparel on what is being commented cpould be tracked and analized.
 
 
 
